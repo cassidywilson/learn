@@ -1,1 +1,38 @@
-
+*{
+    background-color: #ff87bb;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1%;
+  
+  }
+  h1{
+    color: white;
+    font-family: sans-serif;
+  }
+  img{
+    width: 10%;
+    border-radius: 20px;
+  }
+  p{
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  h2{
+    color: white;
+      font-family: sans-serif;
+  }
+  .btn {
+    border: {color:white};
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    font family: sans-serif
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #white;}
+  
+  .mission-accomplished {color: #white;}
